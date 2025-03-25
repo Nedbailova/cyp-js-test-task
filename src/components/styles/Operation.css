@@ -1,0 +1,11 @@
+.operation_block {
+  display: grid;
+  grid-template-columns: 100px 200px 120px 80px;
+  gap: 10px;
+  align-items: center;
+  padding: 10px;
+  box-sizing: border-box;
+  background-color: var(--operation-background-color);
+  border-radius: 50px;
+  border: 2px solid var(--primary-color);
+}

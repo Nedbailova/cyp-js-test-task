@@ -1,0 +1,12 @@
+.input {
+  border-radius: 12px;
+  padding: 10px 12px;
+  width: 400px;
+  box-sizing: border-box;
+  border: 1px solid var(--primary-color);
+}
+
+.input_error {
+  border: 1px solid var(--error-color);
+  background-color: var(--error-background-color);
+}
